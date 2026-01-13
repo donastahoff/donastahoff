@@ -1,16 +1,29 @@
 # Дмитрий Астахов
-Middle Java-разработчик с тремя годами опыта в backend-разработке.  
-Преимущественно работала с Spring Boot, PostgreSQL и Docker.  
-Выполнял задачи по поддержке и развитию корпоративных приложений.  
-Активно интересуюсь современными трендами в разработке и совершенствую свои навыки.
+Middle Java-разработчик с опытом работы 3 года.  
+Специализируюсь на разработке высоконагруженных систем с использованием Spring Boot, Hibernate и микросервисов.  
+Интересуюсь технологиями микросервисов, облачными вычислениями, безопасностью, DevOps-практиками и новейшими трендам Java (например, Virtual Threads).  
+Постоянно развиваюсь, ищу интересные задачи и нестандартные подходы к решению проблем.
 
 **Профессиональные навыки:**  
 - Java 17+  
-- Spring Boot
-- PostgreSQL, MongoDB  
-- Docker, Kubernetes  
-- CI/CD, Jenkins  
+- Spring Boot  
+- Spring MVC  
+- Spring Security  
+- Spring Data  
+- Spring Cloud  
+- Spring Web  
+- SQL  
+- PostgreSQL  
+- MySQL  
+- REST API  
+- ООП  
+- SOLID  
+- Git  
+- HTML
 
 **Контактная информация:**  
-📧 don.astahoff@yandex.ru
+
+📧 Электронная почта: don.astahoff@yandex.ru  
+👨‍💻 Telegram: [https://t.me/donastahoff](URL)  
+🐛 GitHub: [https://github.com/donastahoff](URL)  
 📍 Москва
