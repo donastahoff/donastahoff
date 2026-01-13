@@ -35,6 +35,6 @@
 
 Вы можете связаться со мной любым способом ниже:
 
-Telegram: [https://t.me/donastahoff](URL)
+Telegram: https://t.me/donastahoff
 
 Электронная почта: don.astahoff@yandex.ru
